@@ -1,6 +1,6 @@
 # Webcam Fun
 
-Basic webcam manipulation with effects, taking snaps etc.
+Basic webcam manipulation with effects, taking snaps etc. (_based off lesson from Wes Bos's JavaScript30_)
 
 ## Getting Started
 
@@ -16,7 +16,8 @@ Copy and paste onto server.
 
 ## Authors
 
-* [**Sparcut**](https://github.com/sparcut)
+* [**sparcut**](https://github.com/sparcut)
+* [**Wes Bos**](https://github.com/wesbos) - _Initial concepts from [JavaScript30 course](https://javascript30.com/)_
 
 ## License
 
